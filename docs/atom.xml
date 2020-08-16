@@ -4,10 +4,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">monitory blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-08-16T06:14:44&#43;00:00</updated>
-    <id>https://blog.monitory.io/blog/</id>
-    <link rel="alternate" type="text/html" href="https://blog.monitory.io/blog/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://blog.monitory.io/blog/atom.xml" />
+    <updated>2020-08-16T09:19:03&#43;00:00</updated>
+    <id>https://blog.monitory.io/</id>
+    <link rel="alternate" type="text/html" href="https://blog.monitory.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://blog.monitory.io/atom.xml" />
     <author>
             <name>monitory.io</name>
             <uri>https://blog.monitory.io/</uri>
@@ -18,8 +18,8 @@
     <generator uri="https://gohugo.io/" version="0.74.2">Hugo</generator>
         <entry>
             <title type="text">Hello</title>
-            <link rel="alternate" type="text/html" href="https://blog.monitory.io/blog/posts/hello/" />
-            <id>https://blog.monitory.io/blog/posts/hello/</id>
+            <link rel="alternate" type="text/html" href="https://blog.monitory.io/posts/hello/" />
+            <id>https://blog.monitory.io/posts/hello/</id>
             <updated>2020-08-16T03:43:24&#43;00:00</updated>
             <published>2020-08-16T03:25:09&#43;00:00</published>
             <author>
