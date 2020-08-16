@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">monitory blog</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2020-08-16T03:58:59&#43;00:00</updated>
+    <id>https://blog.monitory.io/</id>
+    <link rel="alternate" type="text/html" href="https://blog.monitory.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://blog.monitory.io/atom.xml" />
+    <author>
+            <name>monitory.io</name>
+            <uri>https://blog.monitory.io/</uri>
+            
+                <email>hi@monitory.io</email>
+            </author>
+    
+    <generator uri="https://gohugo.io/" version="0.74.2">Hugo</generator>
+        <entry>
+            <title type="text">Hello</title>
+            <link rel="alternate" type="text/html" href="https://blog.monitory.io/posts/hello/" />
+            <id>https://blog.monitory.io/posts/hello/</id>
+            <updated>2020-08-16T03:43:24&#43;00:00</updated>
+            <published>2020-08-16T03:25:09&#43;00:00</published>
+            <author>
+                    <name>monitory.io</name>
+                    <uri>https://monitory.io</uri>
+                    <email>hi@monitory.io</email>
+                    </author>
+            <summary type="html">What? We will blog about our journey to build monitory. We&amp;rsquo;re Eric and Maxence</summary>
+            
+                <content type="html">&lt;h2 id=&#34;what&#34;&gt;What?&lt;/h2&gt;
+&lt;p&gt;We will blog about our journey to build monitory. We&amp;rsquo;re &lt;a href=&#34;https://twitter.com/eric_khun&#34;&gt;Eric&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/jonhymaxoo&#34;&gt;Maxence&lt;/a&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>
