@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>monitory blog</title>
-        <link>https://monitoryio.github.io/blog/</link>
+        <link>https://blog.monitory.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.74.2 https://gohugo.io/</generator>
         
@@ -21,15 +21,15 @@
             <webMaster>hi@monitory.io (monitory.io)</webMaster>
         
         
-        <lastBuildDate>Sun, 16 Aug 2020 04:00:19 &#43;0000</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2020 04:03:26 &#43;0000</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://monitoryio.github.io/blog/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://blog.monitory.io/rss.xml" />
         
         
             <item>
                 <title>Hello</title>
-                <link>https://monitoryio.github.io/blog/posts/hello/</link>
-                <guid isPermaLink="true">https://monitoryio.github.io/blog/posts/hello/</guid>
+                <link>https://blog.monitory.io/posts/hello/</link>
+                <guid isPermaLink="true">https://blog.monitory.io/posts/hello/</guid>
                 <pubDate>Sun, 16 Aug 2020 03:25:09 &#43;0000</pubDate>
                 
                     <author>hi@monitory.io (monitory.io)</author>
