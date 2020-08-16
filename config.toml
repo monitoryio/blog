@@ -1270,7 +1270,7 @@ uglyURLs = false
     ######################################
     # Fingerprinting and SRI
 
-    enableFingerprint = true
+    enableFingerprint = false
     # Note: valid for CSS and JS generated
     #       by MemE only
 
