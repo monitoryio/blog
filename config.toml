@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://blog.monitory.io/"
+baseURL = "https://blog.monitory.io/blog/"
 title = "monitory blog"
 languageCode = "en"
 hasCJKLanguage = false

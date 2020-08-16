@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.monitory.io/about/</loc>
+    <loc>https://blog.monitory.io/blog/about/</loc>
     <lastmod>2020-08-16T03:58:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.monitory.io/</loc>
+    <loc>https://blog.monitory.io/blog/</loc>
     <lastmod>2020-08-16T03:58:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.monitory.io/posts/hello/</loc>
+    <loc>https://blog.monitory.io/blog/posts/hello/</loc>
     <lastmod>2020-08-16T03:43:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.monitory.io/posts/</loc>
+    <loc>https://blog.monitory.io/blog/posts/</loc>
     <lastmod>2020-08-16T03:43:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.monitory.io/categories/</loc>
+    <loc>https://blog.monitory.io/blog/categories/</loc>
   </url>
   
   <url>
-    <loc>https://blog.monitory.io/tags/</loc>
+    <loc>https://blog.monitory.io/blog/tags/</loc>
   </url>
   
 </urlset>
